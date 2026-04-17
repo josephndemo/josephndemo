@@ -1,4 +1,5 @@
 👋 Hi there!
+
 💼 Professional Summary
 
 I'm Joseph,a Systems Analyst, Application Support, and Software Development professional with 15+ years of experience delivering scalable telecom and enterprise solutions.

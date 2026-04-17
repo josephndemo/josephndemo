@@ -1,16 +1,53 @@
-## Hi there 👋
+👋 Hi there!
+💼 Professional Summary
 
-<!--
-**josephndemo/josephndemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Joseph,a Systems Analyst, Application Support, and Software Development professional with 15+ years of experience delivering scalable telecom and enterprise solutions.
 
-Here are some ideas to get you started:
+I specialize in BSS/OSS systems, API integrations, and full SDLC execution, with a strong track record in system optimization, production support, and leading large-scale migrations in high-availability environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Core Competencies
+
+🛠 Systems & Application Support
+Production Support
+Incident & Problem Management
+System Integration
+Performance Tuning & Optimization
+🌐 Networking
+TCP/IP
+Routing & Switching
+Network Troubleshooting
+
+💻 Development
+JavaScript
+Python
+.NET
+SQL
+RESTful APIs
+Automation & Scripting
+
+📡 Telecom Domain Expertise
+Billing Systems
+CRM Platforms
+Mediation Systems
+Revenue Assurance
+Service Provisioning
+
+🧰 Tools & Platforms
+Git
+Linux / Unix
+Tableau
+SAP
+Salesforce
+Nagios
+Remedy
+
+📋 Methodologies
+Agile
+ITIL
+PRINCE2
+
+🎯 What I Focus On
+Building reliable and scalable backend systems
+Optimizing enterprise and telecom platforms
+API integrations and automation
+Production stability and high-availability systems
